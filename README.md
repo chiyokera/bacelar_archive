@@ -1,3 +1,5 @@
+# Automatic generation of soccer commentary from playdata by rule-base
+### 学部研究で書いたコード
 本フォルダは以下の2つのipynbファイルで構成されており、以下のCSVファイルを用いて結果の出力を行っている（CSVファイルは配布していません）
 （t5_mainではテストの出力結果は閲覧可能です）
 
