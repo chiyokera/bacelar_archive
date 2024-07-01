@@ -1,4 +1,5 @@
 # Automatic generation of soccer commentary from playdata by rule-base
+## 研究テーマ「プレーデータを用いたサッカーのテキスト速報自動生成手法の提案」
 ### 学部研究で書いたコード
 本レポジトリは以下の3つのipynbファイルと2つのpdfで構成されており、以下のCSVファイルを用いて結果の出力を行っている（CSVファイルは配布していません）
 （t5_mainではテストの出力結果は閲覧可能です）
